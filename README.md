@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/DevOpsProjectSamples/PipeLines_Java/_apis/build/status/NinjaIntheBronx.pipelines-java?branchName=master)](https://dev.azure.com/DevOpsProjectSamples/PipeLines_Java/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
